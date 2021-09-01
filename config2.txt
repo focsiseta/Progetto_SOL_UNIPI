@@ -1,0 +1,6 @@
+[LPT]log
+[SPT]/tmp/sok
+[NWK]4
+[MFL]10
+[MMB]1
+[PCY]LRU
